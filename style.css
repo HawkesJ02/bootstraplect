@@ -1,0 +1,9 @@
+.mainheader{
+background-image: url(https://via.placeholder.com/1900);
+background-repeat: no-repeat;
+}
+
+.emailbar{
+  border: .1em solid rgba(92, 92, 92, 0.455);
+  border-radius: 10px;
+}
